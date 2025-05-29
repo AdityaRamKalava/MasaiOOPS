@@ -1,1 +1,1 @@
-# MasaiOOPS
+cd path/to/your/project/folder git init git add . git commit -m "initial commit for MasaiOOPs" git branch -M main git remote add origin https://github.com/AdityaRamKalava/MasaiOOPS.git git push -u origin main# MasaiOOPS
